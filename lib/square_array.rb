@@ -9,6 +9,9 @@ while numbers[counter] do
 end
 
 new_numbers = [9,10,16,25]
+  counter = 0
   square_array(new_numbers)
-  while new_numbers(array)
+  while new_numbers(array) do
+    puts new_numbers[counter]
+    counter += 1
 end
